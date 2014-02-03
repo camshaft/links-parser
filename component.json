@@ -1,0 +1,16 @@
+{
+  "name": "links-parser",
+  "repo": "camshaft/links-parser",
+  "description": "Parse the 'links' header",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/reduce": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
