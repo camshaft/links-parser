@@ -1,0 +1,33 @@
+{
+  "name": "links-parser",
+  "version": "0.1.0",
+  "description": "Parse the 'links' header",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camshaft/links-parser.git"
+  },
+  "keywords": [
+    "links",
+    "http"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camshaft/links-parser/issues"
+  },
+  "homepage": "https://github.com/camshaft/links-parser",
+  "devDependencies": {
+    "mocha": "^1.21.5",
+    "should": "^4.1.0"
+  },
+  "dependencies": {
+    "component-reduce": "^1.0.0"
+  }
+}
