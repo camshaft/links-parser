@@ -2,7 +2,7 @@
   "name": "links-parser",
   "repo": "camshaft/links-parser",
   "description": "Parse the 'links' header",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {
     "yields/reduce": "*"
